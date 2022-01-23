@@ -1,4 +1,10 @@
-# WiDS  Medellín LandingPage 
+# WiDS  Medellín 2021 LandingPage
+
+## Empezemos!! 🚀
+
+-Se realizo la pagina web en equipo, con el fin de brindar informacion del evento.
+
+
 
 
 - Template Name: TheEvent
