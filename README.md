@@ -2,7 +2,7 @@
 
 ## Empezemos!! 🚀
 
--Se realizo la pagina web en equipo, con el fin de brindar informacion del evento.
+-Se realizo la pagina web tipo Landing page con el fin de brindar informacion del evento.
 
 ![texto_alternativo](https://github.com/Rinaplata/Wids-Medellin2021/blob/main/wids_med_2021/wids_med_2021/assets/img/portada.png?raw=true)
 
