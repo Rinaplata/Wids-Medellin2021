@@ -4,7 +4,7 @@
 
 -Se realizo la pagina web en equipo, con el fin de brindar informacion del evento.
 
-
+![texto_alternativo](https://github.com/Rinaplata/Wids-Medellin2021/blob/main/wids_med_2021/wids_med_2021/assets/img/portada.png?raw=true){width=100% height=100%}
 
 
 - Template Name: TheEvent
